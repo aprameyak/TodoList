@@ -1,8 +1,13 @@
-# React + Vite
+Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created so that I could learn how to develop using a full stack
+I used sqlite as an in memory relational database to story the todolist items 
+I used python to communicate between the front end web server and the back end database as a CRUD API by defining flask endpoints
+I used react, css, and html to create a UI that allows users to acess a responsive todo list
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+
