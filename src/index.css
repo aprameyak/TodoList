@@ -1,0 +1,61 @@
+input, button, label {
+  margin-top: 10px;
+}
+table { 
+  width: 400px;
+  border-spacing: 10px; 
+} 
+th { 
+  text-align: left; 
+} 
+th, td { 
+  padding: 10px; 
+  border-bottom: 15px solid transparent; 
+  background-color: #a9c2f1; 
+  color: black; 
+  background-clip: padding-box; 
+}
+h2 { 
+  padding: 10px; 
+  border-bottom: 15px solid transparent; 
+  background-color: #a9c2f1; 
+  color: black; 
+  background-clip: padding-box; 
+  text-align: center;
+}
+.submit {
+  padding: 10px;
+  background-color:darkslategray;
+  color: white; 
+  background-clip: padding-box; 
+  text-align: center;
+}
+.delete {
+  padding: 10px; 
+  background-color: red; 
+  color: black; 
+  background-clip: padding-box; 
+  text-align: center;
+}
+.create {
+  padding: 10px; 
+  background-color:bisque; 
+  color: black; 
+  background-clip: padding-box; 
+  text-align: center;
+}
+.add {
+  padding: 10px; 
+  background-color:lawngreen; 
+  color: black; 
+  background-clip: padding-box; 
+  text-align: center;
+}
+.formlabel {
+  padding: 10px;  
+  color: black; 
+  background-clip: padding-box; 
+  text-align: center;
+  font-weight: bold;
+}
+

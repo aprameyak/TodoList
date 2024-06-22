@@ -1,5 +1,8 @@
-# Todo-list
-Project to learn full stack of sqlite database and react js frontend with flask api communications.
-The SQLite database uses local memory to store data in the model form of an id, item title, and item content
-The Flask api defines endpoints to allow CRUD actions from the database
-The React frontend displays a page where users can add, edit, and delete items to the todo list
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
