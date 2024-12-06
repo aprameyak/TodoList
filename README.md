@@ -4,7 +4,7 @@ This project demonstrates a fully functional to-do list application developed to
 
 Features
 -In-Memory Database: Utilizes SQLite for efficient and lightweight data storage of to-do list items.
--Backend API: Implements a Python-based CRUD API using Flask, enabling seamless communication between the frontend and database.
+-Backend API: Implements a Python-based CRUD API using Flask, enabling seamless communication between the frontend and database while adhering to the principles of REST.
 -Frontend Interface: Built with React, HTML, and CSS to deliver a responsive and user-friendly UI.
 
 Technology Stack
