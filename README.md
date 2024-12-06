@@ -1,4 +1,4 @@
-#Todo List
+Todo List
 
 This project demonstrates a fully functional to-do list application developed to explore and integrate various full-stack technologies. The application showcases a responsive user interface, a robust backend API, and seamless data handling.
 
