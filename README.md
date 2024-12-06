@@ -1,10 +1,21 @@
-Todo List
+#Todo List
 
-This project was created so that I could learn how to develop using a full stack
-I used sqlite as an in memory relational database to story the todolist items 
-I used python to communicate between the front end web server and the back end database as a CRUD API by defining flask endpoints
-I used react, css, and html to create a UI that allows users to acess a responsive todo list
+This project demonstrates a fully functional to-do list application developed to explore and integrate various full-stack technologies. The application showcases a responsive user interface, a robust backend API, and seamless data handling.
 
+Features
+-In-Memory Database: Utilizes SQLite for efficient and lightweight data storage of to-do list items.
+-Backend API: Implements a Python-based CRUD API using Flask, enabling seamless communication between the frontend and database.
+-Frontend Interface: Built with React, HTML, and CSS to deliver a responsive and user-friendly UI.
+
+Technology Stack
+-Frontend: React, HTML, CSS
+-Backend: Python, Flask
+-Database: SQLite (in-memory)
+
+Functionality
+-Add, update, delete, and retrieve to-do items through a simple and intuitive interface.
+-Responsive design ensures usability across devices.
+-Robust API endpoints manage data operations efficiently.
 
 
 
